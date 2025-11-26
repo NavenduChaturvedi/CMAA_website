@@ -168,7 +168,7 @@ nav {
 /* Hero Section */
 .hero {
     height: 100vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('images/2024-09-04.webp') no-repeat center center/cover;
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('Images/2024-09-04.webp') no-repeat center center/cover;
     display: flex;
     align-items: center;
     text-align: center;
